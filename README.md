@@ -40,7 +40,7 @@ Every contribution helps strengthen the project.
 ## **Contribution Guidelines**
 
 Before contributing, please review our contribution guidelines:  
-https://github.com/FinnaCloud/FinnaCloud/contributing.md
+github.com/FinnaCloud/FinnaCloud/blob/main/contributing.md
 
 We encourage:
 
